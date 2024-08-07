@@ -3,15 +3,11 @@
 
 ## Demo
 
-[https://random-api-eight.vercel.app/](https://random-api-eight.vercel.app/)
+[https://random-pictures-iota.vercel.app](https://random-pictures-iota.vercel.app/)
 
 ## 部署
 
-- 方法一：直接点击下方按钮一键部署。
-
-  [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Faizhiqian%2Frandom-pictures&repository-name=random-api)
-
-- 方法二：先 `Fork` 本项目，再登录 [Vercel](https://vercel.com/) 网站新建项目。
+先 `Fork` 本项目，再登录 [Vercel](https://vercel.com/) 网站新建项目。
 
 ## 使用方法
 
@@ -60,17 +56,17 @@ https://example.com/dongman2.jpg
                 <ul>
                     <li>
                         <a href="/random" target="_blank"
-                            >https://random-api-eight.vercel.app/random</a
+                            >https://random-pictures-iota.vercel.app/random</a
                         >
                     </li>
                     <li>
                         <a href="/meinv" target="_blank"
-                            >https://random-api-eight.vercel.app/meinv</a
+                            >https://random-pictures-iota.vercel.app/meinv</a
                         >
                     </li>
                     <li>
                         <a href="/dongman" target="_blank"
-                            >https://random-api-eight.vercel.app/dongman</a
+                            >https://random-pictures-iota.vercel.app/dongman</a
                         >
                     </li>
                 </ul>
