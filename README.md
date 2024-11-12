@@ -73,3 +73,8 @@ https://example.com/dongman2.jpg
             </section>
 ```
 
+## 许可证
+
+[![license](https://img.shields.io/github/license/aizhiqian/random-pictures)](https://github.com/aizhiqian/random-pictures/blob/main/LICENSE)
+
+random-pictures 使用 GPL-v3.0 协议开源，请遵守开源协议。
